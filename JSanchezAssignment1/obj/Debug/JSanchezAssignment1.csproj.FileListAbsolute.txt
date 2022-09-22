@@ -1,0 +1,10 @@
+D:\Conestoga\Thrid\VideoGames\Assignments\TicTacToe\JSanchezAssignment1\JSanchezAssignment1\bin\Debug\JSanchezAssignment1.exe.config
+D:\Conestoga\Thrid\VideoGames\Assignments\TicTacToe\JSanchezAssignment1\JSanchezAssignment1\bin\Debug\JSanchezAssignment1.exe
+D:\Conestoga\Thrid\VideoGames\Assignments\TicTacToe\JSanchezAssignment1\JSanchezAssignment1\bin\Debug\JSanchezAssignment1.pdb
+D:\Conestoga\Thrid\VideoGames\Assignments\TicTacToe\JSanchezAssignment1\JSanchezAssignment1\obj\Debug\JSanchezAssignment1.csproj.AssemblyReference.cache
+D:\Conestoga\Thrid\VideoGames\Assignments\TicTacToe\JSanchezAssignment1\JSanchezAssignment1\obj\Debug\JSanchezAssignment1.Properties.Resources.resources
+D:\Conestoga\Thrid\VideoGames\Assignments\TicTacToe\JSanchezAssignment1\JSanchezAssignment1\obj\Debug\JSanchezAssignment1.csproj.GenerateResource.cache
+D:\Conestoga\Thrid\VideoGames\Assignments\TicTacToe\JSanchezAssignment1\JSanchezAssignment1\obj\Debug\JSanchezAssignment1.csproj.CoreCompileInputs.cache
+D:\Conestoga\Thrid\VideoGames\Assignments\TicTacToe\JSanchezAssignment1\JSanchezAssignment1\obj\Debug\JSanchezAssignment1.exe
+D:\Conestoga\Thrid\VideoGames\Assignments\TicTacToe\JSanchezAssignment1\JSanchezAssignment1\obj\Debug\JSanchezAssignment1.pdb
+D:\Conestoga\Thrid\VideoGames\Assignments\TicTacToe\JSanchezAssignment1\JSanchezAssignment1\obj\Debug\JSanchezAssignment1.frmTicTacToe.resources
